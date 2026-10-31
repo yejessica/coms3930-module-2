@@ -4,7 +4,9 @@ In this module, we used a LilyGo TTGO T-display ESP32 and breadboarding componen
 You can read more about my implementation at [this blog article](https://app.notion.com/p/Module-2-Interactive-Devices-Chrome-Dino-Game-40ad5c8d2dcb800eaf9fdbe4115a85a7?source=copy_link), which details how this was implemented, my design process, and technical challenges.
 
 ## Project Video
-https://github.com/user-attachments/assets/2639654d-b358-46c2-9b0f-8ab58ee2200e
+https://github.com/user-attachments/assets/2318299c-0cba-4895-ad7b-41fd1dc46c95
+Note: this video is at 1.5x speed. It demonstrates jump/duck, speeding up/down, and the shield.
+
 
 ## Recreating the project
 
