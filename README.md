@@ -5,6 +5,7 @@ You can read more about my implementation at [this blog article](https://app.not
 
 ## Project Video
 https://github.com/user-attachments/assets/2318299c-0cba-4895-ad7b-41fd1dc46c95
+
 Note: this video is at 1.5x speed. It demonstrates jump/duck, speeding up/down, and the shield.
 
 
